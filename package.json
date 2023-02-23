@@ -1,0 +1,21 @@
+{
+    "name": "YukkiMusicBot",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pandzzi09/YukkiMusicBot.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pandzzi09/YukkiMusicBot/issues"
+    },
+    "homepage": "https://github.com/pandzzi09/YukkiMusicBot#readme"
+}
+
